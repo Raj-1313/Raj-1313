@@ -1,5 +1,5 @@
 <h2 align="center">
-  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="https://abhishekdewanganportfolio.netlify.app/" target="_blank" rel="noopener noreferrer">Raj Rathor</a>!
+  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="https://abhishekdewanganportfolio.netlify.app/" target="_blank" rel="noopener noreferrer">Raj Rathor</a> <img src="https://i.gifer.com/CVyf.gif" width="28">
 </h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raj-1313&label=Profile%20views&color=0e75b6&style=flat" alt="raj-1313" /> </p>
