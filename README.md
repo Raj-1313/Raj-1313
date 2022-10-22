@@ -44,6 +44,13 @@
 
 
 
+<h3 align='center'> 🔍 Located here </h3>
+<div align='center'>  [(https://www.google.com/maps/place/Kota,+Rajasthan/@25.1733863,75.7769083,12z/data=!3m1!4b1!4m5!3m4!1s0x396f9b30c41bb44d:0x5f5c103200045588!8m2!3d25.2138156!4d75.8647527)]KOTA
+ 
+</div>
+
+
+
 <h3 align='center'> 🔍 Available here </h3>
 <div align='center'>
 
@@ -53,3 +60,18 @@
   [![Leetcode Badge](https://img.shields.io/badge/Leetcode--informational?style=flat&logo=leetcode&logoColor=yellow&color=yellow)](https://leetcode.com/rajrathore/)
   [![HackerRank Badge](https://img.shields.io/badge/HackerRank--green?style=flat&logo=hackerrank&logoColor=white&color=green)](https://www.hackerrank.com/theromeo_1313)
 </div>
+
+
+[![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raj-1313&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Raj-1313&show_icons=true&theme=tokyonight)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Raj-1313&theme=tokyonight)](https://git.io/streak-stats)
+
+
+
+<h2 align='center'>Support Me By ⭐</h2>
+<br>
+<p align='center'>
+<img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<br>
