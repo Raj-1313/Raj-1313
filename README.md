@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Wellcome%20my%20code%20World;&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Wellcome%20my%20to%20code%20World;&center=true&width=500&height=50">
 </p>
 
 
