@@ -45,8 +45,7 @@
 
 
 <h3 align='center'> 🔍 Located here </h3>
-<div align='center'>  [(https://www.google.com/maps/place/Kota,+Rajasthan/@25.1733863,75.7769083,12z/data=!3m1!4b1!4m5!3m4!1s0x396f9b30c41bb44d:0x5f5c103200045588!8m2!3d25.2138156!4d75.8647527)]KOTA
- 
+<div align='center' mix-blend-mode= 'soft-light' > <a href="https://www.google.com/maps/place/Kota,+Rajasthan/@25.1733863,75.7769083,12z/data=!3m1!4b1!4m5!3m4!1s0x396f9b30c41bb44d:0x5f5c103200045588!8m2!3d25.2138156!4d75.8647527" target="_blank"><img src="https://cdn.csswinner.com/images/profiles/2019/may/88117703.jpg" alt="KOTA"  width="100" height="44" /></a>
 </div>
 
 
