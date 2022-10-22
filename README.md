@@ -20,9 +20,9 @@
 <img height="250px" align="right" src="https://cdn.dribbble.com/users/1876781/screenshots/6169542/web_character.gif"/>
 
 - 🌱 I’m currently learning MERN
-- 👯 I’m looking to collaborate on Linkedin
-- 🤔 I’m looking for help with developing AI skills..
-- 💬 Ask me about any MERN related stuff
+- 👯 I’m looking to collaborate on  <a href="https://www.linkedin.com/in/rajrathore1313/" /> Linkedin </a>   
+- 🤔 I’m looking for help with developing AI skills ..
+- 💬 Project presentation is <a href="https://raj-1313.github.io/" />HERE (PORTFOLIO) </a> 
 - 📫 you can reach me at raj1rathore.1@gmail.com
 - 😄 Fun fact: ⚡ 20% of all the oxygen you breathe is used by your brain.
    <br>
