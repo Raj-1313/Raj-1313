@@ -19,7 +19,7 @@
 
 <img height="250px" align="right" src="https://cdn.dribbble.com/users/1876781/screenshots/6169542/web_character.gif"/>
 
-- 🌱 I’m currently learning MERN
+- 🌱 Aspiring MERN Developer
 - 👯 I’m looking to collaborate on  <a href="https://www.linkedin.com/in/rajrathore1313/" /> Linkedin </a>   
 - 🤔 I’m looking for help with developing AI skills ..
 - 💬 Project presentation is <a href="https://raj-1313.github.io/" />HERE (PORTFOLIO) </a> 
