@@ -65,7 +65,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Raj-1313&show_icons=true&theme=tokyonight)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Raj-1313&theme=tokyonight)](https://github.com/Raj-1313)/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Raj-1313&theme=tokyonight)](https://github.com/Raj-1313/streak-stats)
 
 
 
