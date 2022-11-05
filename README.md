@@ -59,13 +59,28 @@
   [![Leetcode Badge](https://img.shields.io/badge/Leetcode--informational?style=flat&logo=leetcode&logoColor=yellow&color=yellow)](https://leetcode.com/rajrathore/)
   [![HackerRank Badge](https://img.shields.io/badge/HackerRank--green?style=flat&logo=hackerrank&logoColor=white&color=green)](https://www.hackerrank.com/theromeo_1313)
 </div>
+<!-- ***************************************************** -->
+
+ <div align="center">
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+ <h2> 📊 Github Stats ....</h2>
+<p align="center">
+ 
+<a href="http://www.github.com/Raj-1313"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=Raj-1313&hide=&count_private=true&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="Raj-1313's GitHub stats"/></a>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raj-1313&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raj-1313&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raj-1313&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=raj-1313&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=raj-1313&theme=solarized_dark&utcOffset=8">
+	
+</p>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 
-[![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raj-1313&layout=compact&theme=tokyonight)](https://github.com/raj-1313/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Raj-1313&show_icons=true&theme=tokyonight)
+<!-- ********************************************************* -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Raj-1313&theme=tokyonight)](https://github.com/Raj-1313/streak-stats)
 
 
 
