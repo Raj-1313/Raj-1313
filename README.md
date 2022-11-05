@@ -61,11 +61,11 @@
 </div>
 
 
-[![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raj-1313&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raj-1313&layout=compact&theme=tokyonight)](https://github.com/raj-1313/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Raj-1313&show_icons=true&theme=tokyonight)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Raj-1313&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Raj-1313&theme=tokyonight)](https://github.com/Raj-1313)/streak-stats)
 
 
 
