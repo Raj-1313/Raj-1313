@@ -17,7 +17,7 @@
 <h2 align="center"> :card_file_box: About Me</h2>
 <h4 align='center'>Passionate about implementing and launching new projects. I also posses the ability to translate business requirements into technical solutions. I am looking to start my career as a web-developer with a reputed firm driven by technology.</h4>
 
-<img height="250px" align="right" src="https://cdn.dribbble.com/users/1876781/screenshots/6169542/web_character.gif"/>
+<img height="250px" align="right" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"/>
 
 - 🌱 Aspiring MERN Developer
 - 👯 I’m looking to collaborate on  <a href="https://www.linkedin.com/in/rajrathore1313/" /> Linkedin </a>   
