@@ -1,5 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raj-1313&label=Profile%20views&color=0e75b6&style=flat" alt="raj-1313" /> </p>
- <img src="https://marvel-b1-cdn.bc0a.com/f00000000091204/www.nice.com/assets/img/GatedAssets-Desktop-Hero-new.png?rev=1D832C9C98462560962A836977FD56AC" align="center" height="200" width="1000" >
+ <img src="https://media-exp1.licdn.com/dms/image/C5616AQEiZV40znessQ/profile-displaybackgroundimage-shrink_350_1400/0/1659071580219?e=1675296000&v=beta&t=-rTDAzsvfhU97Gmd3cy8rl-ojHmoIAeU-eXWY9J45Ow" align="center" height="200" width="1000" >
 
 <h2 align="center">
   Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="#" target="_blank" rel="noopener noreferrer">Raj Rathor</a> <img src="https://i.gifer.com/CVyf.gif" width="28" >
