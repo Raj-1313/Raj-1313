@@ -78,6 +78,20 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 
+	
+
+<br/>
+<br/>
+
+<a href="https://github.com/raj-1313/github-readme-activity-graph"><img alt="Raj Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=raj-1313&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+	
+	
+	
+<br/>
+<br/>
+<br/>
+<br/>
+	
 
 <!-- ********************************************************* -->
 
